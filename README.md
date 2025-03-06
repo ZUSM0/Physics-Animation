@@ -1,5 +1,5 @@
 # Physics-Animation
-##Installation
+## Installation
 
 1. Clone the repo
 ```sh
@@ -26,6 +26,6 @@ Uv add manim
 Code .
 ```
 
-##Extension
-###Manim Sideview
-![Extensão no VS Code](https://rickaym.gallerycdn.vsassets.io/extensions/rickaym/manim-sideview/0.2.16/1730436193999/Microsoft.VisualStudio.Services.Icons.Default)
+## Extension
+### Manim Sideview
+<img src="https://rickaym.gallerycdn.vsassets.io/extensions/rickaym/manim-sideview/0.2.16/1730436193999/Microsoft.VisualStudio.Services.Icons.Default" alt="Manim Sideview" width="200"/>
