@@ -1,4 +1,6 @@
 # Physics-Animation
+
+Animações feitas utilizando uma biblioteca do Python chamada de manim.
 ## Installation
 
 1. Clone the repo
